@@ -1,0 +1,11 @@
+((filename . "./figures/hoge_fuga.jpg")
+ (dcmitype . "Image")
+ (dc:title . "Hoge_fuga image")
+ (licenseurl . "https://creativecommons.org/licenses/by-sa/4.0/")
+ (licensetext . "CC BY-SA 4.0")
+ (cc:attributionName . "Jens Lechtenbörger")
+ (cc:attributionURL . "https://gitlab.com/lechten")
+ (dc:source . "https://gitlab.com/oer/figures/blob/master/OS/tikz/clock-step0.tex")
+ (sourcetext . "GitLab")
+ (texwidth . 0.7) ; Width in percent of textwidth for LaTeX export
+)
